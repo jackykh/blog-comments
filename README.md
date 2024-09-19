@@ -1,1 +1,1 @@
-This Repo is for saving comments of my personal blog.
+This Repo is for saving comments of my personal blog. Powered by Giscus.
